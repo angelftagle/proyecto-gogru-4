@@ -1,0 +1,1 @@
+import DoISuportIt from './app/app.component';
